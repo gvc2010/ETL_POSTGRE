@@ -1,6 +1,6 @@
-#Requisitos
- Necessário ter Postgre instalado na sua maquina.
 
-# Passos para Configurar um Novo Servidor no pgAdmin
-### 1 - Adicionar um Novo Servidor:
-  Na tela do pgAdmin que você está vendo, clique em "Add New Server" (Adicionar Novo Servidor).
+## Requisitos:
+```bash
+- Postgre instalado na máquina
+- Ngrok instalado na máquina (Será usado para fazer o tunelamento para o google colab)
+
